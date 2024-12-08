@@ -1,0 +1,530 @@
+2024-12-08 00:14:37,004 - INFO - Server GUI initialized.
+2024-12-08 00:19:59,363 - INFO - Server GUI initialized.
+2024-12-08 00:19:59,409 - INFO - Server started on 192.168.0.12:5555
+2024-12-08 00:19:59,409 - INFO - Server started on 192.168.0.12:5555
+2024-12-08 00:20:16,696 - INFO - Client connected: ('192.168.0.12', 50548)
+2024-12-08 00:20:16,696 - INFO - Client connected: ('192.168.0.12', 50548)
+2024-12-08 00:20:22,504 - INFO - Server: cwdsc
+2024-12-08 00:20:22,504 - INFO - Sent message: cwdsc
+2024-12-08 00:20:27,186 - INFO - Server: ауцауау
+2024-12-08 00:20:27,186 - INFO - Sent message: ауцауау
+2024-12-08 00:20:30,396 - INFO - Client: \xf6\xe0\xf3\xf6\xf3\xe0\xf6\xf3\xe0
+2024-12-08 00:20:30,396 - INFO - Client: \xf6\xe0\xf3\xf6\xf3\xe0\xf6\xf3\xe0
+2024-12-08 00:20:42,866 - INFO - Client: fjrjiffijjriваллвв
+2024-12-08 00:20:42,866 - INFO - Client: fjrjiffijjriваллвв
+2024-12-08 00:20:48,433 - INFO - Receiving file: babka.png (134451 bytes)
+2024-12-08 00:20:48,433 - INFO - Receiving file: babka.png (134451 bytes)
+2024-12-08 00:20:48,439 - INFO - File received: babka.png
+2024-12-08 00:20:48,439 - INFO - File received: babka.png
+2024-12-08 00:20:55,432 - INFO - File saved as: C:/Users/User/Videos/babka.png
+2024-12-08 00:20:55,432 - INFO - File saved as: C:/Users/User/Videos/babka.png
+2024-12-08 00:20:59,607 - INFO - Receiving file: test_hardware_encoder.mp4 (0 bytes)
+2024-12-08 00:20:59,607 - INFO - Receiving file: test_hardware_encoder.mp4 (0 bytes)
+2024-12-08 00:20:59,609 - INFO - File received: test_hardware_encoder.mp4
+2024-12-08 00:20:59,610 - INFO - File received: test_hardware_encoder.mp4
+2024-12-08 00:30:06,767 - INFO - Connection closed.
+2024-12-08 00:30:06,768 - INFO - Connection closed.
+2024-12-08 00:31:32,154 - INFO - Server GUI initialized.
+2024-12-08 00:31:32,193 - INFO - Server: Server started on 192.168.0.12:5555
+2024-12-08 00:31:32,194 - INFO - Server listening on 192.168.0.12:5555
+2024-12-08 00:31:57,926 - INFO - Server: Client connected: ('192.168.0.12', 56893)
+2024-12-08 00:31:57,926 - INFO - Client connected: ('192.168.0.12', 56893)
+2024-12-08 00:32:46,279 - INFO - ('192.168.0.12', 56893): Вы: амвамва
+2024-12-08 00:32:46,279 - INFO - Sent to ('192.168.0.12', 56893): амвамва
+2024-12-08 00:32:50,011 - INFO - Received from ('192.168.0.12', 56893): мавамвам
+2024-12-08 00:32:50,034 - INFO - ('192.168.0.12', 56893): Клиент: мавамвам
+2024-12-08 00:32:56,102 - INFO - Receiving file from ('192.168.0.12', 56893): test_hardware_encoder.mp4 (0 байт)
+2024-12-08 00:32:56,102 - INFO - File received from ('192.168.0.12', 56893): test_hardware_encoder.mp4
+2024-12-08 00:33:20,821 - INFO - Receiving file from ('192.168.0.12', 56893): babka.png (134451 байт)
+2024-12-08 00:33:20,822 - INFO - File received from ('192.168.0.12', 56893): babka.png
+2024-12-08 00:33:53,619 - INFO - ('192.168.0.12', 56893): Вы отправили файл: babka.png
+2024-12-08 00:33:53,620 - INFO - Sent file to ('192.168.0.12', 56893): babka.png (134451 байт)
+2024-12-08 00:34:13,148 - INFO - Receiving file from ('192.168.0.12', 56893): dd.zip (1608 байт)
+2024-12-08 00:34:13,149 - INFO - File received from ('192.168.0.12', 56893): dd.zip
+2024-12-08 00:36:19,879 - INFO - Connection closed with ('192.168.0.12', 56893)
+2024-12-08 00:36:19,886 - INFO - Chat window closed for ('192.168.0.12', 56893)
+2024-12-08 00:36:23,939 - INFO - Server: Закрытие сервера...
+2024-12-08 00:36:23,939 - INFO - Shutting down server.
+2024-12-08 00:36:23,939 - INFO - Chat window closed for ('192.168.0.12', 56893)
+2024-12-08 00:36:23,946 - INFO - Server shut down.
+2024-12-08 01:21:47,418 - INFO - Server GUI initialized.
+2024-12-08 01:21:47,455 - INFO - Registered default user: user1
+2024-12-08 01:21:47,470 - INFO - Server: Server started on 0.0.0.0:5555
+2024-12-08 01:21:47,501 - INFO - Server listening on 0.0.0.0:5555
+2024-12-08 01:23:09,550 - INFO - Server: Client connected: ('192.168.0.12', 50206)
+2024-12-08 01:23:09,551 - INFO - Client connected: ('192.168.0.12', 50206)
+2024-12-08 01:23:18,515 - ERROR - Error communicating with ('192.168.0.12', 50206): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:23:18,515 - INFO - Connection closed with ('192.168.0.12', 50206)
+2024-12-08 01:23:18,603 - INFO - ('192.168.0.12', 50206): Error communicating with ('192.168.0.12', 50206): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:23:18,610 - INFO - Server: Client disconnected: ('192.168.0.12', 50206)
+2024-12-08 01:23:18,611 - INFO - Chat window closed for ('192.168.0.12', 50206)
+2024-12-08 01:41:32,312 - INFO - Server: Client connected: ('192.168.0.12', 55702)
+2024-12-08 01:41:32,318 - INFO - Client connected: ('192.168.0.12', 55702)
+2024-12-08 01:41:45,011 - ERROR - Error communicating with ('192.168.0.12', 55702): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:41:45,011 - INFO - Connection closed with ('192.168.0.12', 55702)
+2024-12-08 01:41:45,067 - INFO - ('192.168.0.12', 55702): Error communicating with ('192.168.0.12', 55702): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:41:45,078 - INFO - Server: Client disconnected: ('192.168.0.12', 55702)
+2024-12-08 01:41:45,079 - INFO - Chat window closed for ('192.168.0.12', 55702)
+2024-12-08 01:41:47,805 - INFO - Server: Client connected: ('192.168.0.12', 55786)
+2024-12-08 01:41:47,806 - INFO - Client connected: ('192.168.0.12', 55786)
+2024-12-08 01:41:54,502 - ERROR - Error communicating with ('192.168.0.12', 55786): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:41:54,503 - INFO - Connection closed with ('192.168.0.12', 55786)
+2024-12-08 01:41:54,509 - INFO - ('192.168.0.12', 55786): Error communicating with ('192.168.0.12', 55786): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:41:54,527 - INFO - Server: Client disconnected: ('192.168.0.12', 55786)
+2024-12-08 01:41:54,528 - INFO - Chat window closed for ('192.168.0.12', 55786)
+2024-12-08 01:42:35,019 - INFO - Server: Client connected: ('192.168.0.12', 56047)
+2024-12-08 01:42:35,020 - INFO - Client connected: ('192.168.0.12', 56047)
+2024-12-08 01:42:45,062 - ERROR - Error communicating with ('192.168.0.12', 56047): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:42:45,062 - INFO - Connection closed with ('192.168.0.12', 56047)
+2024-12-08 01:42:45,109 - INFO - ('192.168.0.12', 56047): Error communicating with ('192.168.0.12', 56047): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:42:45,117 - INFO - Server: Client disconnected: ('192.168.0.12', 56047)
+2024-12-08 01:42:45,118 - INFO - Chat window closed for ('192.168.0.12', 56047)
+2024-12-08 01:42:47,941 - INFO - Server: Client connected: ('192.168.0.12', 56130)
+2024-12-08 01:42:47,943 - INFO - Client connected: ('192.168.0.12', 56130)
+2024-12-08 01:42:54,804 - ERROR - Error communicating with ('192.168.0.12', 56130): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:42:54,804 - INFO - Connection closed with ('192.168.0.12', 56130)
+2024-12-08 01:42:54,905 - INFO - ('192.168.0.12', 56130): Error communicating with ('192.168.0.12', 56130): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:42:54,911 - INFO - Server: Client disconnected: ('192.168.0.12', 56130)
+2024-12-08 01:42:54,912 - INFO - Chat window closed for ('192.168.0.12', 56130)
+2024-12-08 01:42:57,146 - INFO - Server: Client connected: ('192.168.0.12', 56199)
+2024-12-08 01:42:57,147 - INFO - Client connected: ('192.168.0.12', 56199)
+2024-12-08 01:43:35,371 - ERROR - Error communicating with ('192.168.0.12', 56199): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:43:35,372 - INFO - Connection closed with ('192.168.0.12', 56199)
+2024-12-08 01:43:35,413 - INFO - ('192.168.0.12', 56199): Error communicating with ('192.168.0.12', 56199): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:43:35,422 - INFO - Server: Client disconnected: ('192.168.0.12', 56199)
+2024-12-08 01:43:35,423 - INFO - Chat window closed for ('192.168.0.12', 56199)
+2024-12-08 01:44:19,549 - INFO - Server: Shutting down server...
+2024-12-08 01:44:19,550 - INFO - Shutting down server.
+2024-12-08 01:44:19,560 - INFO - Server shut down.
+2024-12-08 01:44:51,536 - INFO - Server GUI initialized.
+2024-12-08 01:44:51,543 - INFO - Server: Server started on 0.0.0.0:5555
+2024-12-08 01:44:51,569 - INFO - Server listening on 0.0.0.0:5555
+2024-12-08 01:45:21,767 - INFO - Server: Shutting down server...
+2024-12-08 01:45:21,768 - INFO - Shutting down server.
+2024-12-08 01:45:21,777 - INFO - Server shut down.
+2024-12-08 01:45:58,205 - INFO - Server GUI initialized.
+2024-12-08 01:45:58,218 - INFO - Server: Server started on 192.168.0.12:5555
+2024-12-08 01:45:58,243 - INFO - Server listening on 192.168.0.12:5555
+2024-12-08 01:46:07,653 - INFO - Server: Client connected: ('192.168.0.12', 57356)
+2024-12-08 01:46:07,655 - INFO - Client connected: ('192.168.0.12', 57356)
+2024-12-08 01:46:15,767 - ERROR - Error communicating with ('192.168.0.12', 57356): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:46:15,768 - INFO - Connection closed with ('192.168.0.12', 57356)
+2024-12-08 01:46:15,808 - INFO - ('192.168.0.12', 57356): Error communicating with ('192.168.0.12', 57356): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:46:15,824 - INFO - Server: Client disconnected: ('192.168.0.12', 57356)
+2024-12-08 01:46:15,825 - INFO - Chat window closed for ('192.168.0.12', 57356)
+2024-12-08 01:53:36,622 - INFO - Server: Client connected: ('192.168.0.12', 59865)
+2024-12-08 01:53:36,623 - INFO - Client connected: ('192.168.0.12', 59865)
+2024-12-08 01:53:50,683 - ERROR - Error communicating with ('192.168.0.12', 59865): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:53:50,684 - INFO - Connection closed with ('192.168.0.12', 59865)
+2024-12-08 01:53:50,791 - INFO - ('192.168.0.12', 59865): Error communicating with ('192.168.0.12', 59865): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:53:50,797 - INFO - Server: Client disconnected: ('192.168.0.12', 59865)
+2024-12-08 01:53:50,798 - INFO - Chat window closed for ('192.168.0.12', 59865)
+2024-12-08 01:55:32,911 - INFO - Server: Client connected: ('192.168.0.12', 60469)
+2024-12-08 01:55:32,912 - INFO - Client connected: ('192.168.0.12', 60469)
+2024-12-08 01:55:37,056 - ERROR - Error communicating with ('192.168.0.12', 60469): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:55:37,056 - INFO - Connection closed with ('192.168.0.12', 60469)
+2024-12-08 01:55:37,114 - INFO - ('192.168.0.12', 60469): Error communicating with ('192.168.0.12', 60469): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:55:37,126 - INFO - Server: Client disconnected: ('192.168.0.12', 60469)
+2024-12-08 01:55:37,128 - INFO - Chat window closed for ('192.168.0.12', 60469)
+2024-12-08 01:55:40,034 - INFO - Server: Client connected: ('192.168.0.12', 60516)
+2024-12-08 01:55:40,035 - INFO - Client connected: ('192.168.0.12', 60516)
+2024-12-08 01:55:41,801 - ERROR - Error communicating with ('192.168.0.12', 60516): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:55:41,802 - INFO - Connection closed with ('192.168.0.12', 60516)
+2024-12-08 01:55:41,938 - INFO - ('192.168.0.12', 60516): Error communicating with ('192.168.0.12', 60516): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:55:41,943 - INFO - Server: Client disconnected: ('192.168.0.12', 60516)
+2024-12-08 01:55:41,943 - INFO - Chat window closed for ('192.168.0.12', 60516)
+2024-12-08 01:55:43,861 - INFO - Server: Client connected: ('192.168.0.12', 60539)
+2024-12-08 01:55:43,861 - INFO - Client connected: ('192.168.0.12', 60539)
+2024-12-08 01:56:10,466 - ERROR - Error communicating with ('192.168.0.12', 60539): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:56:10,466 - INFO - Connection closed with ('192.168.0.12', 60539)
+2024-12-08 01:56:10,511 - INFO - ('192.168.0.12', 60539): Error communicating with ('192.168.0.12', 60539): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 01:56:10,525 - INFO - Server: Client disconnected: ('192.168.0.12', 60539)
+2024-12-08 01:56:10,528 - INFO - Chat window closed for ('192.168.0.12', 60539)
+2024-12-08 02:04:06,438 - INFO - Server: Client connected: ('192.168.0.12', 63380)
+2024-12-08 02:04:06,440 - INFO - Client connected: ('192.168.0.12', 63380)
+2024-12-08 02:04:24,832 - ERROR - Error communicating with ('192.168.0.12', 63380): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 02:04:24,832 - INFO - Connection closed with ('192.168.0.12', 63380)
+2024-12-08 02:04:24,929 - INFO - ('192.168.0.12', 63380): Error communicating with ('192.168.0.12', 63380): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 02:04:24,941 - INFO - Server: Client disconnected: ('192.168.0.12', 63380)
+2024-12-08 02:04:24,941 - INFO - Chat window closed for ('192.168.0.12', 63380)
+2024-12-08 02:04:30,419 - INFO - Server: Client connected: ('192.168.0.12', 63485)
+2024-12-08 02:04:30,421 - INFO - Client connected: ('192.168.0.12', 63485)
+2024-12-08 02:04:36,433 - ERROR - Error communicating with ('192.168.0.12', 63485): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 02:04:36,433 - INFO - Connection closed with ('192.168.0.12', 63485)
+2024-12-08 02:04:36,480 - INFO - ('192.168.0.12', 63485): Error communicating with ('192.168.0.12', 63485): [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 02:04:36,486 - INFO - Server: Client disconnected: ('192.168.0.12', 63485)
+2024-12-08 02:04:36,487 - INFO - Chat window closed for ('192.168.0.12', 63485)
+2024-12-08 02:11:13,763 - INFO - Server: Shutting down server...
+2024-12-08 02:11:13,764 - INFO - Shutting down server.
+2024-12-08 02:11:13,788 - INFO - Server shut down.
+2024-12-08 02:11:20,202 - INFO - Server GUI initialized.
+2024-12-08 02:11:20,232 - INFO - Server: Server started on 192.168.0.12:5555
+2024-12-08 02:11:20,244 - INFO - Server listening on 192.168.0.12:5555
+2024-12-08 02:11:27,975 - INFO - Server: Client connected: ('192.168.0.12', 49866)
+2024-12-08 02:11:27,977 - INFO - Client connected: ('192.168.0.12', 49866)
+2024-12-08 02:11:42,024 - INFO - ('192.168.0.12', 49866): You: vfvfv
+2024-12-08 02:11:42,024 - INFO - Sent to ('192.168.0.12', 49866): vfvfv
+2024-12-08 02:11:56,341 - INFO - ('192.168.0.12', 49866): You: vd
+2024-12-08 02:11:56,341 - INFO - Sent to ('192.168.0.12', 49866): vd
+2024-12-08 02:11:59,857 - INFO - ('192.168.0.12', 49866): You: vfddvfdfv
+2024-12-08 02:11:59,857 - INFO - Sent to ('192.168.0.12', 49866): vfddvfdfv
+2024-12-08 02:12:09,774 - INFO - ('192.168.0.12', 49866): Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 02:12:09,775 - ERROR - Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 02:12:09,775 - INFO - Connection closed with ('192.168.0.12', 49866)
+2024-12-08 02:12:11,822 - INFO - Chat window closed for ('192.168.0.12', 49866)
+2024-12-08 02:12:12,837 - INFO - Server: Shutting down server...
+2024-12-08 02:12:12,838 - INFO - Shutting down server.
+2024-12-08 02:12:12,838 - INFO - Chat window closed for ('192.168.0.12', 49866)
+2024-12-08 02:12:12,845 - INFO - Server shut down.
+2024-12-08 11:58:10,914 - INFO - Server GUI initialized.
+2024-12-08 11:58:10,960 - INFO - Server: Server started on 0.0.0.0:5555
+2024-12-08 11:58:10,963 - INFO - Server listening on 0.0.0.0:5555
+2024-12-08 11:58:16,501 - INFO - Server: Shutting down server...
+2024-12-08 11:58:16,502 - INFO - Shutting down server.
+2024-12-08 11:58:16,513 - INFO - Server shut down.
+2024-12-08 11:59:46,214 - INFO - Server GUI initialized.
+2024-12-08 11:59:46,228 - INFO - Server: Server started on 172.30.10.184:5555
+2024-12-08 11:59:46,241 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 11:59:55,736 - INFO - Server: Client connected: ('172.30.10.184', 52989)
+2024-12-08 11:59:55,737 - INFO - Client connected: ('172.30.10.184', 52989)
+2024-12-08 12:00:06,249 - INFO - ('172.30.10.184', 52989): You: wefwef
+2024-12-08 12:00:06,249 - INFO - Sent to ('172.30.10.184', 52989): wefwef
+2024-12-08 12:00:13,153 - INFO - ('172.30.10.184', 52989): Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 12:00:13,153 - ERROR - Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 12:00:13,153 - INFO - Connection closed with ('172.30.10.184', 52989)
+2024-12-08 12:00:13,859 - INFO - Server: Shutting down server...
+2024-12-08 12:00:13,859 - INFO - Shutting down server.
+2024-12-08 12:00:13,862 - INFO - Chat window closed for ('172.30.10.184', 52989)
+2024-12-08 12:00:13,868 - INFO - Server shut down.
+2024-12-08 12:07:03,485 - INFO - Server GUI initialized.
+2024-12-08 12:07:03,524 - INFO - Server: Server started on 0.0.0.0:5555
+2024-12-08 12:07:03,532 - INFO - Server listening on 0.0.0.0:5555
+2024-12-08 12:07:07,186 - INFO - Server: Shutting down server...
+2024-12-08 12:07:07,186 - INFO - Shutting down server.
+2024-12-08 12:07:07,200 - INFO - Server shut down.
+2024-12-08 12:07:11,165 - INFO - Server GUI initialized.
+2024-12-08 12:07:11,183 - INFO - Server: Server started on 172.30.10.184:5555
+2024-12-08 12:07:11,195 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 12:07:25,630 - INFO - Server: Client connected: ('172.30.10.184', 58118)
+2024-12-08 12:07:25,631 - INFO - Client connected: ('172.30.10.184', 58118)
+2024-12-08 12:07:32,934 - INFO - ('172.30.10.184', 58118): You: вйцвйцв
+2024-12-08 12:07:32,934 - INFO - Sent to ('172.30.10.184', 58118): вйцвйцв
+2024-12-08 12:07:41,807 - INFO - ('172.30.10.184', 58118): You sent file: config.json
+2024-12-08 12:07:41,807 - INFO - Sent file to ('172.30.10.184', 58118): config.json (595 bytes)
+2024-12-08 12:08:03,104 - INFO - ('172.30.10.184', 58118): You: вйцв
+2024-12-08 12:08:03,104 - INFO - Sent to ('172.30.10.184', 58118): вйцв
+2024-12-08 12:08:06,794 - INFO - Connection closed with ('172.30.10.184', 58118)
+2024-12-08 12:08:06,804 - INFO - Chat window closed for ('172.30.10.184', 58118)
+2024-12-08 12:08:07,999 - INFO - Server: Shutting down server...
+2024-12-08 12:08:08,000 - INFO - Shutting down server.
+2024-12-08 12:08:08,000 - INFO - Chat window closed for ('172.30.10.184', 58118)
+2024-12-08 12:08:08,008 - INFO - Server shut down.
+2024-12-08 12:13:43,349 - INFO - Server GUI initialized.
+2024-12-08 12:13:43,369 - INFO - Server: Server started on 172.30.10.184:5555
+2024-12-08 12:13:43,385 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 12:13:47,657 - INFO - Server: Client connected: ('172.30.10.184', 62151)
+2024-12-08 12:13:47,658 - INFO - Client connected: ('172.30.10.184', 62151)
+2024-12-08 12:13:47,662 - INFO - Server: Error accepting connection: name 'StringVar' is not defined
+2024-12-08 12:13:47,663 - ERROR - Error accepting connection: name 'StringVar' is not defined
+2024-12-08 12:14:10,994 - INFO - Server: Shutting down server...
+2024-12-08 12:14:10,995 - INFO - Shutting down server.
+2024-12-08 12:14:11,002 - INFO - Server shut down.
+2024-12-08 12:19:12,577 - INFO - Server GUI initialized.
+2024-12-08 12:19:12,588 - INFO - Server: Server started on 172.30.10.184:5555
+2024-12-08 12:19:12,611 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 12:19:18,381 - INFO - Server: Client connected: ('172.30.10.184', 64773)
+2024-12-08 12:19:18,384 - INFO - Client connected: ('172.30.10.184', 64773)
+2024-12-08 12:19:18,392 - INFO - Server: Error accepting connection: name 'StringVar' is not defined
+2024-12-08 12:19:18,409 - ERROR - Error accepting connection: name 'StringVar' is not defined
+2024-12-08 12:19:24,162 - INFO - Chat window closed for ('172.30.10.184', 64773)
+2024-12-08 12:19:25,057 - INFO - Server: Shutting down server...
+2024-12-08 12:19:25,057 - INFO - Shutting down server.
+2024-12-08 12:19:25,066 - INFO - Server shut down.
+2024-12-08 12:22:17,767 - INFO - Server GUI initialized.
+2024-12-08 12:22:17,784 - INFO - Server: Server started on 172.30.10.184:5555
+2024-12-08 12:22:17,799 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 12:22:21,291 - INFO - Server: Client connected: ('172.30.10.184', 50187)
+2024-12-08 12:22:21,294 - INFO - Client connected: ('172.30.10.184', 50187)
+2024-12-08 12:22:21,295 - INFO - Server: Error accepting connection: name 'StringVar' is not defined
+2024-12-08 12:22:21,310 - ERROR - Error accepting connection: name 'StringVar' is not defined
+2024-12-08 12:23:06,638 - INFO - Server GUI initialized.
+2024-12-08 12:23:06,651 - INFO - Server: Server started on 0.0.0.0:5555
+2024-12-08 12:23:06,669 - INFO - Server listening on 0.0.0.0:5555
+2024-12-08 12:23:09,116 - INFO - Server: Shutting down server...
+2024-12-08 12:23:09,116 - INFO - Shutting down server.
+2024-12-08 12:23:09,122 - INFO - Server shut down.
+2024-12-08 12:23:30,264 - INFO - Server: Shutting down server...
+2024-12-08 12:23:30,264 - INFO - Shutting down server.
+2024-12-08 12:23:30,270 - INFO - Server shut down.
+2024-12-08 12:23:34,521 - INFO - Server GUI initialized.
+2024-12-08 12:23:34,538 - INFO - Server: Server started on 0.0.0.0:5555
+2024-12-08 12:23:34,556 - INFO - Server listening on 0.0.0.0:5555
+2024-12-08 12:23:57,032 - INFO - Server: Client connected: ('172.30.10.184', 50991)
+2024-12-08 12:23:57,035 - INFO - Client connected: ('172.30.10.184', 50991)
+2024-12-08 12:23:57,049 - INFO - Server: Error accepting connection: name 'StringVar' is not defined
+2024-12-08 12:23:57,050 - ERROR - Error accepting connection: name 'StringVar' is not defined
+2024-12-08 12:24:26,454 - INFO - Chat window closed for ('172.30.10.184', 50991)
+2024-12-08 12:33:36,569 - INFO - Server GUI initialized.
+2024-12-08 12:33:36,581 - INFO - Server: Server started on 172.30.10.184:5555
+2024-12-08 12:33:36,606 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 12:33:43,121 - INFO - Server: Shutting down server...
+2024-12-08 12:33:43,122 - INFO - Shutting down server.
+2024-12-08 12:33:43,125 - INFO - Server shut down.
+2024-12-08 12:33:47,487 - INFO - Server: Shutting down server...
+2024-12-08 12:33:47,487 - INFO - Shutting down server.
+2024-12-08 12:33:47,490 - INFO - Server shut down.
+2024-12-08 12:33:54,773 - INFO - Server GUI initialized.
+2024-12-08 12:33:54,790 - INFO - Server: Server started on 172.30.10.184:5555
+2024-12-08 12:33:54,807 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 12:34:00,664 - INFO - Server: Client connected: ('172.30.10.184', 56199)
+2024-12-08 12:34:00,671 - INFO - Client connected: ('172.30.10.184', 56199)
+2024-12-08 12:34:39,533 - INFO - Server: Client disconnected: ('172.30.10.184', 56199)
+2024-12-08 12:34:39,534 - INFO - Chat window closed for ('172.30.10.184', 56199)
+2024-12-08 12:34:41,215 - INFO - Server: Shutting down server...
+2024-12-08 12:34:41,216 - INFO - Shutting down server.
+2024-12-08 12:34:41,228 - INFO - Server shut down.
+2024-12-08 12:35:55,969 - INFO - Server GUI initialized.
+2024-12-08 12:40:40,759 - INFO - Server GUI initialized.
+2024-12-08 12:40:40,772 - INFO - Server: Server started on 172.30.10.184:5555
+2024-12-08 12:40:40,790 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 12:40:45,339 - INFO - Server: Client connected: ('172.30.10.184', 59731)
+2024-12-08 12:40:45,341 - INFO - Client connected: ('172.30.10.184', 59731)
+2024-12-08 12:40:49,526 - INFO - ('172.30.10.184', 59731): You: qwdqwd
+2024-12-08 12:40:49,526 - INFO - Sent message to ('172.30.10.184', 59731): qwdqwd
+2024-12-08 12:40:51,560 - INFO - Received message from client: qdwdqwd
+2024-12-08 12:40:51,618 - INFO - ('172.30.10.184', 59731): Client: qdwdqwd
+2024-12-08 12:41:03,743 - INFO - Sending file to ('172.30.10.184', 59731): babka.png (134451 bytes)
+2024-12-08 12:41:03,746 - INFO - ('172.30.10.184', 59731): Error sending file: [WinError 10038] Сделана попытка выполнить операцию на объекте, не являющемся сокетом
+2024-12-08 12:41:03,746 - ERROR - Error sending file: [WinError 10038] Сделана попытка выполнить операцию на объекте, не являющемся сокетом
+2024-12-08 12:41:47,825 - INFO - Server: Client disconnected: ('172.30.10.184', 59731)
+2024-12-08 12:41:47,826 - INFO - Chat window closed for ('172.30.10.184', 59731)
+2024-12-08 12:41:50,811 - INFO - Server: Shutting down server...
+2024-12-08 12:41:50,811 - INFO - Shutting down server.
+2024-12-08 12:41:50,815 - INFO - Server shut down.
+2024-12-08 12:45:48,760 - INFO - Server GUI initialized.
+2024-12-08 12:45:48,774 - INFO - Server: Server started on 172.30.10.184:5555
+2024-12-08 12:45:48,788 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 12:45:52,118 - INFO - Server: Client connected: ('172.30.10.184', 61750)
+2024-12-08 12:45:52,119 - INFO - Client connected: ('172.30.10.184', 61750)
+2024-12-08 12:45:57,406 - INFO - Received message from client: rhtrthrt
+2024-12-08 12:45:57,493 - INFO - ('172.30.10.184', 61750): Client: rhtrthrt
+2024-12-08 12:45:59,650 - INFO - ('172.30.10.184', 61750): You: fafwe
+2024-12-08 12:45:59,650 - INFO - Sent message to ('172.30.10.184', 61750): fafwe
+2024-12-08 12:46:15,275 - INFO - Sending file to ('172.30.10.184', 61750): простые решения для вашего бизнеса (2).pdf (19426552 bytes)
+2024-12-08 12:46:15,278 - INFO - ('172.30.10.184', 61750): Error sending file: [WinError 10038] Сделана попытка выполнить операцию на объекте, не являющемся сокетом
+2024-12-08 12:46:15,278 - ERROR - Error sending file: [WinError 10038] Сделана попытка выполнить операцию на объекте, не являющемся сокетом
+2024-12-08 12:46:19,667 - INFO - Server: Client disconnected: ('172.30.10.184', 61750)
+2024-12-08 12:46:19,667 - INFO - Chat window closed for ('172.30.10.184', 61750)
+2024-12-08 12:46:22,223 - INFO - Server: Shutting down server...
+2024-12-08 12:46:22,224 - INFO - Shutting down server.
+2024-12-08 12:46:22,235 - INFO - Server shut down.
+2024-12-08 12:53:52,836 - INFO - Server GUI initialized.
+2024-12-08 12:53:52,849 - INFO - Server: Server started on 172.30.10.184:5555
+2024-12-08 12:53:52,873 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 12:53:56,318 - INFO - Server: Client connected: ('172.30.10.184', 65329)
+2024-12-08 12:53:56,318 - INFO - Client connected: ('172.30.10.184', 65329)
+2024-12-08 12:54:02,086 - INFO - ('172.30.10.184', 65329): You: цвуцув
+2024-12-08 12:54:02,086 - INFO - Sent message to ('172.30.10.184', 65329): цвуцув
+2024-12-08 12:54:06,275 - INFO - Received message from client: увцвцув
+2024-12-08 12:54:06,383 - INFO - ('172.30.10.184', 65329): Client: увцвцув
+2024-12-08 12:54:09,649 - INFO - Receiving file: babka.png (134451 bytes)
+2024-12-08 12:54:09,666 - INFO - File received from client: babka.png
+2024-12-08 12:54:09,717 - INFO - ('172.30.10.184', 65329): Receiving file: babka.png (134451 bytes)
+2024-12-08 12:54:09,719 - INFO - ('172.30.10.184', 65329): File received: babka.png
+2024-12-08 12:54:33,791 - INFO - ('172.30.10.184', 65329): File saved as: C:/Users/User/Downloads/вс
+2024-12-08 12:54:33,792 - INFO - File saved from client as: C:/Users/User/Downloads/вс
+2024-12-08 12:54:52,087 - INFO - Sending file to ('172.30.10.184', 65329): 3bb6fa98-330b-4a69-ad3a-759955569ab0.mp4 (1804477 bytes)
+2024-12-08 12:54:52,256 - INFO - ('172.30.10.184', 65329): You sent file: 3bb6fa98-330b-4a69-ad3a-759955569ab0.mp4
+2024-12-08 12:54:52,256 - INFO - File sent to ('172.30.10.184', 65329): 3bb6fa98-330b-4a69-ad3a-759955569ab0.mp4 (1804477 bytes)
+2024-12-08 12:55:00,714 - INFO - Server: Shutting down server...
+2024-12-08 12:55:00,715 - INFO - Shutting down server.
+2024-12-08 12:55:00,720 - INFO - Server: Client disconnected: ('172.30.10.184', 65329)
+2024-12-08 12:55:00,721 - INFO - Chat window closed for ('172.30.10.184', 65329)
+2024-12-08 12:55:00,728 - INFO - Server shut down.
+2024-12-08 13:01:51,492 - INFO - Server GUI initialized.
+2024-12-08 13:01:51,505 - INFO - Server: Server started on 172.30.10.184:5555
+2024-12-08 13:01:51,522 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 13:01:57,206 - INFO - Server: Client connected: ('172.30.10.184', 53705)
+2024-12-08 13:01:57,212 - INFO - Client connected: ('172.30.10.184', 53705)
+2024-12-08 13:02:02,819 - INFO - ('172.30.10.184', 53705): You: dqwdqw
+2024-12-08 13:02:02,819 - INFO - Sent message to ('172.30.10.184', 53705): dqwdqw
+2024-12-08 13:02:06,768 - INFO - Received message from client: цуацуц
+2024-12-08 13:02:06,841 - INFO - ('172.30.10.184', 53705): Client: цуацуц
+2024-12-08 13:02:07,946 - INFO - Received message from client: ацуа
+2024-12-08 13:02:07,951 - INFO - ('172.30.10.184', 53705): Client: ацуа
+2024-12-08 13:02:11,337 - INFO - Receiving file: babka.png (134451 bytes)
+2024-12-08 13:02:11,354 - INFO - File received from client: babka.png
+2024-12-08 13:02:11,391 - INFO - ('172.30.10.184', 53705): Receiving file: babka.png (134451 bytes)
+2024-12-08 13:02:11,392 - INFO - ('172.30.10.184', 53705): File received: babka.png
+2024-12-08 13:02:19,088 - INFO - ('172.30.10.184', 53705): File saved as: C:/Users/User/Downloads/babka.png
+2024-12-08 13:02:19,088 - INFO - File saved from client as: C:/Users/User/Downloads/babka.png
+2024-12-08 13:02:26,040 - INFO - Sending file to ('172.30.10.184', 53705): history_2024-12-08T01_49_05.707+06_00.json (1281901 bytes)
+2024-12-08 13:02:26,171 - INFO - ('172.30.10.184', 53705): You sent file: history_2024-12-08T01_49_05.707+06_00.json
+2024-12-08 13:02:26,171 - INFO - File sent to ('172.30.10.184', 53705): history_2024-12-08T01_49_05.707+06_00.json (1281901 bytes)
+2024-12-08 13:02:49,305 - INFO - Receiving file: серверр.txt (0 bytes)
+2024-12-08 13:02:49,306 - ERROR - Error receiving data: division by zero
+2024-12-08 13:02:49,350 - INFO - ('172.30.10.184', 53705): Receiving file: серверр.txt (0 bytes)
+2024-12-08 13:02:49,351 - INFO - ('172.30.10.184', 53705): Error receiving data: division by zero
+2024-12-08 13:02:59,592 - INFO - Server: Client disconnected: ('172.30.10.184', 53705)
+2024-12-08 13:02:59,593 - INFO - Chat window closed for ('172.30.10.184', 53705)
+2024-12-08 13:03:14,163 - INFO - Server: Shutting down server...
+2024-12-08 13:03:14,164 - INFO - Shutting down server.
+2024-12-08 13:03:14,170 - INFO - Server shut down.
+2024-12-08 13:18:52,341 - INFO - Server GUI initialized.
+2024-12-08 13:18:52,349 - INFO - Сервер: Server started on 172.30.10.184:5555
+2024-12-08 13:18:52,395 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 13:19:02,510 - INFO - Сервер: Client connected: ('172.30.10.184', 61313)
+2024-12-08 13:19:02,512 - INFO - Client connected: ('172.30.10.184', 61313)
+2024-12-08 13:19:02,558 - INFO - Сервер: Error accepting connection: name 'r' is not defined
+2024-12-08 13:19:02,560 - ERROR - Error accepting connection: name 'r' is not defined
+2024-12-08 13:19:51,477 - INFO - Chat window closed for ('172.30.10.184', 61313)
+2024-12-08 13:19:54,331 - INFO - Сервер: Shutting down server...
+2024-12-08 13:19:54,331 - INFO - Shutting down server.
+2024-12-08 13:19:54,342 - INFO - Server shut down.
+2024-12-08 13:26:09,655 - INFO - Server GUI initialized.
+2024-12-08 13:26:09,663 - INFO - Сервер: Server started on 172.30.10.184:5555
+2024-12-08 13:26:09,694 - INFO - Server listening on 172.30.10.184:5555
+2024-12-08 13:26:13,300 - INFO - Сервер: Client connected: ('172.30.10.184', 64560)
+2024-12-08 13:26:13,308 - INFO - Client connected: ('172.30.10.184', 64560)
+2024-12-08 13:26:40,644 - INFO - ('172.30.10.184', 64560): You: к23к23к
+2024-12-08 13:26:40,645 - INFO - Sent message to ('172.30.10.184', 64560): к23к23к
+2024-12-08 13:26:42,762 - INFO - Получено сообщение от клиента: пукпуцкп
+2024-12-08 13:26:42,874 - INFO - ('172.30.10.184', 64560): Client: пукпуцкп
+2024-12-08 13:26:52,696 - INFO - Получение файла: babka.png (134451 байтов)
+2024-12-08 13:26:52,758 - INFO - Файл получен от клиента: babka.png
+2024-12-08 13:26:52,802 - INFO - ('172.30.10.184', 64560): Получение файла: babka.png (134451 байтов)
+2024-12-08 13:26:52,804 - INFO - ('172.30.10.184', 64560): Файл получен: babka.png
+2024-12-08 13:27:19,417 - INFO - ('172.30.10.184', 64560): Клиент вышел.
+2024-12-08 13:27:19,425 - INFO - ('172.30.10.184', 64560): Клиент вышел.
+2024-12-08 13:27:23,712 - INFO - Сервер: Клиент отключился: ('172.30.10.184', 64560)
+2024-12-08 13:27:23,713 - INFO - Chat window closed for ('172.30.10.184', 64560)
+2024-12-08 13:50:43,409 - INFO - Сервер: Shutting down server...
+2024-12-08 13:50:43,409 - INFO - Shutting down server.
+2024-12-08 13:50:43,412 - INFO - Server shut down.
+2024-12-08 13:50:49,459 - INFO - Server GUI initialized.
+2024-12-08 13:50:49,464 - INFO - Сервер: Сервер стартовал 172.30.10.184:5555
+2024-12-08 13:50:49,490 - INFO - Сервер слушает 172.30.10.184:5555
+2024-12-08 13:50:58,267 - INFO - Сервер: Клиент подключился: ('172.30.10.184', 60722)
+2024-12-08 13:50:58,268 - INFO - Клиент подключился: ('172.30.10.184', 60722)
+2024-12-08 13:54:39,548 - INFO - Сервер: Shutting down server...
+2024-12-08 13:54:39,548 - INFO - Shutting down server.
+2024-12-08 13:54:39,555 - INFO - Сервер: Клиент отключился: ('172.30.10.184', 60722)
+2024-12-08 13:54:39,556 - INFO - Chat window closed for ('172.30.10.184', 60722)
+2024-12-08 13:54:39,560 - INFO - Server shut down.
+2024-12-08 13:54:43,496 - INFO - Server GUI initialized.
+2024-12-08 13:54:43,502 - INFO - Сервер: Сервер стартовал 172.30.10.184:5555
+2024-12-08 13:54:43,523 - INFO - Сервер слушает 172.30.10.184:5555
+2024-12-08 13:54:49,353 - INFO - Сервер: Клиент подключился: ('172.30.10.184', 62661)
+2024-12-08 13:54:49,354 - INFO - Клиент подключился: ('172.30.10.184', 62661)
+2024-12-08 13:54:59,806 - INFO - ('172.30.10.184', 62661): You: вцувц
+2024-12-08 13:54:59,806 - INFO - Sent message to ('172.30.10.184', 62661): вцувц
+2024-12-08 13:55:02,981 - INFO - Получено сообщение от клиента: ысывс
+2024-12-08 13:55:03,050 - INFO - ('172.30.10.184', 62661): Клиент: ысывс
+2024-12-08 13:55:08,681 - INFO - Получение файла: babka.png (134451 байтов)
+2024-12-08 13:55:08,689 - INFO - ('172.30.10.184', 62661): Получение файла: babka.png (134451 байтов)
+2024-12-08 13:55:08,699 - INFO - Файл получен от клиента: babka.png
+2024-12-08 13:55:08,792 - INFO - ('172.30.10.184', 62661): Файл получен: babka.png
+2024-12-08 13:55:14,195 - INFO - ('172.30.10.184', 62661): Файл сохранен в: C:/Users/User/Desktop/babka.png
+2024-12-08 13:55:14,195 - INFO - файл от клиента сохранен в: C:/Users/User/Desktop/babka.png
+2024-12-08 13:55:20,634 - INFO - Отправка файла к ('172.30.10.184', 62661): babka.png (134451 bytes)
+2024-12-08 13:55:20,648 - INFO - ('172.30.10.184', 62661): Вы отпаравили файл: babka.png
+2024-12-08 13:55:20,648 - INFO - Отправлен файл ('172.30.10.184', 62661): babka.png (134451 bytes)
+2024-12-08 13:58:13,700 - INFO - Сервер: Shutting down server...
+2024-12-08 13:58:13,701 - INFO - Shutting down server.
+2024-12-08 13:58:13,704 - INFO - Сервер: Клиент отключился: ('172.30.10.184', 62661)
+2024-12-08 13:58:13,704 - INFO - Chat window closed for ('172.30.10.184', 62661)
+2024-12-08 13:58:13,717 - INFO - Server shut down.
+2024-12-08 15:50:21,126 - INFO - Server GUI initialized.
+2024-12-08 15:50:21,138 - INFO - Сервер: Сервер стартовал 172.30.10.184:5555
+2024-12-08 15:50:21,166 - INFO - Сервер слушает 172.30.10.184:5555
+2024-12-08 15:50:30,567 - INFO - Сервер: Клиент подключился: ('172.30.10.184', 53643)
+2024-12-08 15:50:30,570 - INFO - Клиент подключился: ('172.30.10.184', 53643)
+2024-12-08 15:51:01,508 - INFO - ('172.30.10.184', 53643): Вы: ВЫВАЫА
+2024-12-08 15:51:01,508 - INFO - Sent message to ('172.30.10.184', 53643): ВЫВАЫА
+2024-12-08 15:51:05,224 - INFO - Получено сообщение от клиента: АЦАУЦУ
+2024-12-08 15:51:05,291 - INFO - ('172.30.10.184', 53643): Клиент: АЦАУЦУ
+2024-12-08 15:51:17,353 - INFO - Получение файла: babka.png (134451 байтов)
+2024-12-08 15:51:17,370 - INFO - Файл получен от клиента: babka.png
+2024-12-08 15:51:17,401 - INFO - ('172.30.10.184', 53643): Получение файла: babka.png (134451 байтов)
+2024-12-08 15:51:17,402 - INFO - ('172.30.10.184', 53643): Файл получен: babka.png
+2024-12-08 15:51:23,822 - INFO - Получение файла: pygame_platformer_2-main.zip (0 байтов)
+2024-12-08 15:51:23,822 - ERROR - Ошибка: division by zero
+2024-12-08 15:51:23,830 - INFO - ('172.30.10.184', 53643): Получение файла: pygame_platformer_2-main.zip (0 байтов)
+2024-12-08 15:51:23,831 - INFO - ('172.30.10.184', 53643): Ошибка: division by zero
+2024-12-08 15:51:23,835 - INFO - ('172.30.10.184', 53643): Клиент вышел.
+2024-12-08 15:51:37,416 - INFO - Сервер: Клиент отключился: ('172.30.10.184', 53643)
+2024-12-08 15:51:37,417 - INFO - Chat window closed for ('172.30.10.184', 53643)
+2024-12-08 15:51:41,115 - INFO - Сервер: Клиент подключился: ('172.30.10.184', 54371)
+2024-12-08 15:51:41,117 - INFO - Клиент подключился: ('172.30.10.184', 54371)
+2024-12-08 15:51:50,244 - INFO - Отправка файла к ('172.30.10.184', 54371): простые решения для вашего бизнеса (2).pdf (19426552 bytes)
+2024-12-08 15:51:58,927 - INFO - ('172.30.10.184', 54371): Вы отпаравили файл: простые решения для вашего бизнеса (2).pdf
+2024-12-08 15:51:58,927 - INFO - Отправлен файл ('172.30.10.184', 54371): простые решения для вашего бизнеса (2).pdf (19426552 bytes)
+2024-12-08 15:55:46,534 - INFO - Сервер: Клиент подключился: ('172.30.10.220', 49907)
+2024-12-08 15:55:46,537 - INFO - Клиент подключился: ('172.30.10.220', 49907)
+2024-12-08 15:55:54,362 - INFO - ('172.30.10.220', 49907): Вы: МУВМА
+2024-12-08 15:55:54,362 - INFO - Sent message to ('172.30.10.220', 49907): МУВМА
+2024-12-08 15:55:55,818 - INFO - Получено сообщение от клиента: hui
+2024-12-08 15:55:55,863 - INFO - ('172.30.10.220', 49907): Клиент: hui
+2024-12-08 15:58:00,467 - INFO - Получено сообщение от клиента: salam
+2024-12-08 15:58:00,494 - INFO - ('172.30.10.220', 49907): Клиент: salam
+2024-12-08 15:58:20,277 - INFO - Получение файла: RedPantsAdventure-master.zip (3847242 байтов)
+2024-12-08 15:58:20,370 - INFO - ('172.30.10.220', 49907): Получение файла: RedPantsAdventure-master.zip (3847242 байтов)
+2024-12-08 15:58:21,063 - INFO - Файл получен от клиента: RedPantsAdventure-master.zip
+2024-12-08 15:58:21,074 - INFO - ('172.30.10.220', 49907): Файл получен: RedPantsAdventure-master.zip
+2024-12-08 15:58:40,530 - INFO - Сервер: Shutting down server...
+2024-12-08 15:58:40,530 - INFO - Shutting down server.
+2024-12-08 15:58:40,534 - INFO - Сервер: Клиент отключился: ('172.30.10.184', 54371)
+2024-12-08 15:58:40,535 - INFO - Chat window closed for ('172.30.10.184', 54371)
+2024-12-08 15:58:40,540 - INFO - Сервер: Клиент отключился: ('172.30.10.220', 49907)
+2024-12-08 15:58:40,541 - INFO - Chat window closed for ('172.30.10.220', 49907)
+2024-12-08 15:58:40,553 - INFO - Server shut down.
+2024-12-08 16:18:25,651 - INFO - Server GUI initialized.
+2024-12-08 16:18:25,665 - INFO - Сервер: Сервер стартовал 172.30.10.184:5555
+2024-12-08 16:18:25,692 - INFO - Сервер слушает 172.30.10.184:5555
+2024-12-08 16:26:05,775 - INFO - Сервер: Клиент подключился: ('172.30.10.220', 50358)
+2024-12-08 16:26:05,777 - INFO - Клиент подключился: ('172.30.10.220', 50358)
+2024-12-08 16:26:11,823 - INFO - Получено сообщение от клиента: huuuuuuuuuuuuui
+2024-12-08 16:26:11,853 - INFO - ('172.30.10.220', 50358): Клиент: huuuuuuuuuuuuui
+2024-12-08 16:26:17,036 - INFO - ('172.30.10.220', 50358): Вы: СЫВСЫВСЫВС
+2024-12-08 16:26:17,036 - INFO - Sent message to ('172.30.10.220', 50358): СЫВСЫВСЫВС
+2024-12-08 16:26:28,864 - INFO - Получено сообщение от клиента: ????
+2024-12-08 16:26:28,895 - INFO - ('172.30.10.220', 50358): Клиент: ????
+2024-12-08 16:26:44,453 - INFO - Получено сообщение от клиента: \u2764\ufe0f\u2764\ufe0f
+2024-12-08 16:26:44,620 - INFO - ('172.30.10.220', 50358): Клиент: \u2764\ufe0f\u2764\ufe0f
+2024-12-08 16:26:52,909 - INFO - Получено сообщение от клиента: \uff08\u3065\uffe33\uffe3\uff09\u3065\u256d\u2764\ufe0f\uff5e
+2024-12-08 16:26:53,019 - INFO - ('172.30.10.220', 50358): Клиент: \uff08\u3065\uffe33\uffe3\uff09\u3065\u256d\u2764\ufe0f\uff5e
+2024-12-08 16:27:45,855 - INFO - Сервер: Ошибка принятия подключения: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 16:27:45,856 - ERROR - Ошибка принятия подключения: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 16:27:57,158 - INFO - Получено сообщение от клиента: hhhhhhhuuuuuuuuuuuiiiiiiiii
+2024-12-08 16:27:57,179 - INFO - ('172.30.10.220', 50358): Клиент: hhhhhhhuuuuuuuuuuuiiiiiiiii
+2024-12-08 16:28:09,079 - INFO - Сервер: Клиент подключился: ('172.30.10.35', 49860)
+2024-12-08 16:28:09,083 - INFO - Клиент подключился: ('172.30.10.35', 49860)
+2024-12-08 16:28:09,728 - INFO - Получено сообщение от клиента: pederast
+2024-12-08 16:28:09,781 - INFO - ('172.30.10.220', 50358): Клиент: pederast
+2024-12-08 16:28:57,277 - INFO - Сервер: Клиент подключился: ('172.30.10.184', 50968)
+2024-12-08 16:28:57,279 - INFO - Клиент подключился: ('172.30.10.184', 50968)
+2024-12-08 16:29:16,312 - INFO - ('172.30.10.184', 50968): Вы: цвцвц
+2024-12-08 16:29:16,312 - INFO - Sent message to ('172.30.10.184', 50968): цвцвц
+2024-12-08 16:29:22,121 - INFO - Получено сообщение от клиента: порно
+2024-12-08 16:29:22,161 - INFO - ('172.30.10.35', 49860): Клиент: порно
+2024-12-08 16:29:22,856 - INFO - ('172.30.10.220', 50358): Вы: вцвцв
+2024-12-08 16:29:22,856 - INFO - Sent message to ('172.30.10.220', 50358): вцвцв
+2024-12-08 16:29:30,989 - INFO - ('172.30.10.35', 49860): Вы: фцввцфцв
+2024-12-08 16:29:30,990 - INFO - Sent message to ('172.30.10.35', 49860): фцввцфцв
+2024-12-08 16:29:35,699 - INFO - Получено сообщение от клиента: \xf6\xe0\xf3
+2024-12-08 16:29:35,757 - INFO - ('172.30.10.220', 50358): Клиент: \xf6\xe0\xf3
+2024-12-08 16:29:42,699 - INFO - Получено сообщение от клиента: \xf6\xef\xf3\xef\xf3\xef\xe2\xfb\xf0\xf0\xf0\xf0\xf0\xf0\xf0
+2024-12-08 16:29:42,747 - INFO - ('172.30.10.220', 50358): Клиент: \xf6\xef\xf3\xef\xf3\xef\xe2\xfb\xf0\xf0\xf0\xf0\xf0\xf0\xf0
+2024-12-08 16:29:44,617 - INFO - Получено сообщение от клиента: баба люба
+2024-12-08 16:29:44,636 - INFO - ('172.30.10.35', 49860): Клиент: баба люба
+2024-12-08 16:29:48,543 - INFO - Получено сообщение от клиента: цау
+2024-12-08 16:29:48,582 - INFO - ('172.30.10.220', 50358): Клиент: цау
+2024-12-08 16:29:59,007 - INFO - Сервер: Клиент отключился: ('172.30.10.35', 49860)
+2024-12-08 16:29:59,007 - INFO - Chat window closed for ('172.30.10.35', 49860)
+2024-12-08 16:30:03,897 - INFO - Сервер: Клиент отключился: ('172.30.10.220', 50358)
+2024-12-08 16:30:03,897 - INFO - Chat window closed for ('172.30.10.220', 50358)
+2024-12-08 16:30:08,022 - INFO - Сервер: Клиент отключился: ('172.30.10.184', 50968)
+2024-12-08 16:30:08,025 - INFO - Chat window closed for ('172.30.10.184', 50968)
+2024-12-08 16:30:10,010 - INFO - Сервер: Shutting down server...
+2024-12-08 16:30:10,010 - INFO - Shutting down server.
+2024-12-08 16:30:10,026 - INFO - Server shut down.

@@ -1,0 +1,115 @@
+2024-12-08 01:23:09,549 - INFO - Connected to server.
+2024-12-08 01:23:09,604 - ERROR - Connection error: 'SecureChatClientGUI' object has no attribute 'status_var'
+2024-12-08 01:41:32,311 - INFO - Connected to server.
+2024-12-08 01:41:40,476 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 01:41:47,805 - INFO - Connected to server.
+2024-12-08 01:41:52,304 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 01:42:35,019 - INFO - Connected to server.
+2024-12-08 01:42:37,290 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 01:42:47,940 - INFO - Connected to server.
+2024-12-08 01:42:52,395 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 01:42:57,145 - INFO - Connected to server.
+2024-12-08 01:42:59,408 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 01:44:25,643 - ERROR - Connection error: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2024-12-08 01:44:30,107 - ERROR - Connection error: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2024-12-08 01:44:38,173 - ERROR - Connection error: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2024-12-08 01:46:07,653 - INFO - Connected to server.
+2024-12-08 01:46:13,166 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 01:53:36,622 - INFO - Connected to server.
+2024-12-08 01:53:40,547 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 01:55:32,910 - INFO - Connected to server.
+2024-12-08 01:55:35,053 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 01:55:40,033 - INFO - Connected to server.
+2024-12-08 01:55:40,358 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 01:55:43,860 - INFO - Connected to server.
+2024-12-08 01:56:07,327 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 02:04:06,438 - INFO - Connected to server.
+2024-12-08 02:04:15,185 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 02:04:30,418 - INFO - Connected to server.
+2024-12-08 02:04:32,863 - ERROR - Connection error: window ".!_querystring" was deleted before its visibility changed
+2024-12-08 02:11:27,975 - INFO - Connected to server.
+2024-12-08 02:11:42,029 - INFO - Received from server: vfvfv
+2024-12-08 02:11:56,344 - INFO - Received from server: vd
+2024-12-08 02:11:59,861 - INFO - Received from server: vfddvfdfv
+2024-12-08 02:12:09,772 - INFO - Connection closed with the server.
+2024-12-08 11:59:55,735 - INFO - Connected to server.
+2024-12-08 12:00:06,254 - INFO - Received from server: wefwef
+2024-12-08 12:00:13,150 - INFO - Connection closed with the server.
+2024-12-08 12:07:25,629 - INFO - Connected to server.
+2024-12-08 12:07:32,938 - INFO - Received from server: вйцвйцв
+2024-12-08 12:07:41,806 - INFO - Receiving file from server: config.json (595 bytes)
+2024-12-08 12:07:41,807 - INFO - File received successfully from server: config.json
+2024-12-08 12:08:03,109 - INFO - Received from server: вйцв
+2024-12-08 12:08:06,794 - ERROR - Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 12:08:06,795 - INFO - Connection closed with the server.
+2024-12-08 12:13:47,657 - INFO - Connected to server.
+2024-12-08 12:14:11,026 - ERROR - Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 12:19:18,380 - INFO - Connected to server.
+2024-12-08 12:22:21,291 - INFO - Connected to server.
+2024-12-08 12:23:16,750 - ERROR - Connection error: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2024-12-08 12:23:30,289 - ERROR - Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 12:23:57,032 - INFO - Connected to server.
+2024-12-08 12:33:45,396 - ERROR - Connection error: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2024-12-08 12:34:00,664 - INFO - Connected to server.
+2024-12-08 12:34:39,526 - ERROR - Error receiving data: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+2024-12-08 12:40:45,339 - INFO - Connected to server.
+2024-12-08 12:40:49,525 - INFO - Received message from server: qwdqwd
+2024-12-08 12:40:51,561 - INFO - Sent message to server: qdwdqwd
+2024-12-08 12:41:03,744 - ERROR - Error receiving file: not enough values to unpack (expected 3, got 2)
+2024-12-08 12:41:03,744 - ERROR - Error receiving data: 'utf-8' codec can't decode byte 0x89 in position 0: invalid start byte
+2024-12-08 12:45:52,117 - INFO - Connected to server.
+2024-12-08 12:45:57,406 - INFO - Sent message to server: rhtrthrt
+2024-12-08 12:45:59,649 - INFO - Received message from server: fafwe
+2024-12-08 12:46:15,275 - ERROR - Error receiving file: not enough values to unpack (expected 3, got 2)
+2024-12-08 12:46:15,275 - ERROR - Error receiving data: 'utf-8' codec can't decode byte 0xf6 in position 10: invalid start byte
+2024-12-08 12:53:56,317 - INFO - Connected to server.
+2024-12-08 12:54:02,085 - INFO - Received message from server: цвуцув
+2024-12-08 12:54:06,276 - INFO - Sent message to server: увцвцув
+2024-12-08 12:54:09,649 - INFO - Sending file to server: babka.png (134451 bytes)
+2024-12-08 12:54:09,662 - INFO - File sent to server: babka.png (134451 bytes)
+2024-12-08 12:54:52,087 - INFO - Receiving file: 3bb6fa98-330b-4a69-ad3a-759955569ab0.mp4 (1804477 bytes)
+2024-12-08 12:54:52,373 - INFO - File received from server: 3bb6fa98-330b-4a69-ad3a-759955569ab0.mp4
+2024-12-08 13:01:57,205 - INFO - Connected to server.
+2024-12-08 13:02:02,818 - INFO - Received message from server: dqwdqw
+2024-12-08 13:02:06,768 - INFO - Sent message to server: цуацуц
+2024-12-08 13:02:07,946 - INFO - Sent message to server: ацуа
+2024-12-08 13:02:11,337 - INFO - Sending file to server: babka.png (134451 bytes)
+2024-12-08 13:02:11,370 - INFO - File sent to server: babka.png (134451 bytes)
+2024-12-08 13:02:26,040 - INFO - Receiving file: history_2024-12-08T01_49_05.707+06_00.json (1281901 bytes)
+2024-12-08 13:02:26,238 - INFO - File received from server: history_2024-12-08T01_49_05.707+06_00.json
+2024-12-08 13:02:38,692 - INFO - File saved from server as: C:/Users/User/Documents/history_2024-12-08T01_49_05.707+06_00.json
+2024-12-08 13:02:49,305 - INFO - Sending file to server: серверр.txt (0 bytes)
+2024-12-08 13:02:49,307 - INFO - File sent to server: серверр.txt (0 bytes)
+2024-12-08 13:19:02,509 - INFO - Connected to server.
+2024-12-08 13:19:14,743 - INFO - Sent message to server: умау
+2024-12-08 13:19:32,139 - INFO - Sent message to server: ввцув
+2024-12-08 13:19:36,123 - INFO - Sent message to server: цвцвцув
+2024-12-08 13:19:49,142 - ERROR - Error receiving data: [WinError 10004] Операция блокирования прервана вызовом WSACancelBlockingCall
+2024-12-08 13:26:13,300 - INFO - Connected to server.
+2024-12-08 13:26:40,644 - INFO - Received message from server: к23к23к
+2024-12-08 13:26:42,762 - INFO - Sent message to server: пукпуцкп
+2024-12-08 13:26:52,696 - INFO - Sending file to server: babka.png (134451 bytes)
+2024-12-08 13:26:52,757 - INFO - File sent to server: babka.png (134451 bytes)
+2024-12-08 13:27:19,376 - ERROR - Error receiving data: [WinError 10004] Операция блокирования прервана вызовом WSACancelBlockingCall
+2024-12-08 13:50:58,266 - INFO - Подключен к серверу.
+2024-12-08 13:54:49,352 - INFO - Подключен к серверу.
+2024-12-08 13:54:59,806 - INFO - Получено сообщение от сервера: вцувц
+2024-12-08 13:55:02,983 - INFO - Отправить сообщени серверу: ысывс
+2024-12-08 13:55:08,680 - INFO - Отправка файла к серверу: babka.png (134451 байтов)
+2024-12-08 13:55:08,693 - INFO - Файл отпарвлен к серверу: babka.png (134451 байтов)
+2024-12-08 13:55:20,634 - INFO - Получение файла: babka.png (134451 bytes)
+2024-12-08 13:55:20,654 - INFO - Получен файл от сервера: babka.png
+2024-12-08 13:55:24,464 - INFO - Файл от сервера сохранен в: C:/Users/User/Documents/babka.png
+2024-12-08 15:50:30,566 - INFO - Подключен к серверу.
+2024-12-08 15:51:01,508 - INFO - Получено сообщение от сервера: ВЫВАЫА
+2024-12-08 15:51:05,225 - INFO - Отправить сообщени серверу: АЦАУЦУ
+2024-12-08 15:51:17,353 - INFO - Отправка файла к серверу: babka.png (134451 байтов)
+2024-12-08 15:51:17,366 - INFO - Файл отпарвлен к серверу: babka.png (134451 байтов)
+2024-12-08 15:51:23,822 - INFO - Отправка файла к серверу: pygame_platformer_2-main.zip (0 байтов)
+2024-12-08 15:51:23,823 - INFO - Файл отпарвлен к серверу: pygame_platformer_2-main.zip (0 байтов)
+2024-12-08 15:51:41,114 - INFO - Подключен к серверу.
+2024-12-08 15:51:50,244 - INFO - Получение файла: простые решения для вашего бизнеса (2).pdf (19426552 bytes)
+2024-12-08 15:52:05,297 - INFO - Получен файл от сервера: простые решения для вашего бизнеса (2).pdf
+2024-12-08 16:01:22,686 - ERROR - Ошибка соединения: [WinError 10061] Подключение не установлено, т.к. конечный компьютер отверг запрос на подключение
+2024-12-08 16:28:57,276 - INFO - Подключен к серверу.
+2024-12-08 16:29:16,311 - INFO - Получено сообщение от сервера: цвцвц
